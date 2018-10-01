@@ -3,6 +3,12 @@ A program to solve the classic nPuzzle with A* pathfinding, 4 choices of heursti
 
 This project done in collaboration with Liam Dehaudt at 42.
 
+* Visualizer for a 8-puzzle (3x3) solution process:
+![alt text](https://github.com/conanwu777/nPuzzle/blob/master/2.jpg)
+
+* Visualizer for a 48-puzzle (7x7) solution process:
+![alt text](https://github.com/conanwu777/nPuzzle/blob/master/3.jpg)
+
 ## Features
 * Command line options:
 
@@ -53,9 +59,3 @@ n is the size of board (i.e. n=4 would produce a 4x4 board)
 
 Some sample time when solving randomly generated puzzles of size 3-7:
 ![alt text](https://github.com/conanwu777/nPuzzle/blob/master/1.jpg)
-
-Visualizer for a 8-puzzle (3x3) solution process:
-![alt text](https://github.com/conanwu777/nPuzzle/blob/master/2.jpg)
-
-Visualizer for a 48-puzzle (7x7) solution process:
-![alt text](https://github.com/conanwu777/nPuzzle/blob/master/3.jpg)
