@@ -22,4 +22,4 @@ Run with `./nPuzzle "Filename"`. A collection of sample puzzles files can be fou
 Or use python script puzzle_generator.py:
 
 
-![alt text](https://github.com/conanwu777/water/blob/master/1.png)
+![alt text](https://github.com/conanwu777/nPuzzle/blob/master/1.png)
