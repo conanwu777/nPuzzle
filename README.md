@@ -21,5 +21,8 @@ Run `make`. An executable will compile. Currently only tested on OS X.
 Run with `./nPuzzle "Filename"`. A collection of sample puzzles files can be found in `/boards` folder.
 Or use python script puzzle_generator.py:
 
-
 ![alt text](https://github.com/conanwu777/nPuzzle/blob/master/1.jpg)
+
+![alt text](https://github.com/conanwu777/nPuzzle/blob/master/2.jpg)
+
+![alt text](https://github.com/conanwu777/nPuzzle/blob/master/3.jpg)
